@@ -1,0 +1,30 @@
+.Contact h1 {
+    font-family: Luckiest Guy;
+    margin: 10px;
+}
+.Submit {
+    padding: 1px;
+
+}
+.Submit input {
+    border: 1px solid rgb(2, 46, 94);
+    padding: 3px 100px;
+    border-radius: 10px;
+}
+.Name {
+    margin: 10px;
+    
+}
+.All {
+    text-align: center;
+    border: 2px solid black;
+    font-weight: bold;
+    padding: 30px 0;
+    border-radius: 5px;
+}
+body {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
